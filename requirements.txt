@@ -1,2 +1,8 @@
 streamlit
 openai
+requests
+leafmap
+geopandas
+shapely
+fiona
+leafmap[folium]
